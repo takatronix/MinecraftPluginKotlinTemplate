@@ -1,0 +1,7 @@
+name: SamplePlugin
+version: 1.0
+main: red.man10.sample.Sample
+api-version: '1.15'
+prefix: man10test
+authors: [takatronix]
+description: Kotlin Sample Plugin
